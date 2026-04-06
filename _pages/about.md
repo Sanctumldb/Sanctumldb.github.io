@@ -2,8 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ie.cuhk.edu.hk/'>Department of Information Engineering</a><br>
-<a href='https://cuhk.edu.hk/chinese/index.html'>The Chinese University of Hong Kong</a>
+subtitle: <a href='https://www.ie.cuhk.edu.hk/'>Department of Information Engineering
+#</a><br>
+#<a href='https://cuhk.edu.hk/chinese/index.html'>The Chinese University of Hong Kong</a>
 
 profile:
   align: right
