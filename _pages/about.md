@@ -2,12 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.ie.cuhk.edu.hk/'>Department of Information Engineering  <a href='https://cuhk.edu.hk/chinese/index.html'>The Chinese University of Hong Kong
+subtitle: "<a href='https://www.ie.cuhk.edu.hk/'>Department of Information Engineering</a><br>
+<a href='https://cuhk.edu.hk/chinese/index.html'>The Chinese University of Hong Kong</a>"
 
 profile:
   align: right
   image: Leo.jpg
   image_circular: false # crops the image to make it circular
+  width: 6
   more_info: >
     <p>Ho Sin Hang</p>
     <p>Engineering Building, CUHK</p>
