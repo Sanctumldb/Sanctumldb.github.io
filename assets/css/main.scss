@@ -43,3 +43,9 @@
    position: relative;
    top: -80px;
  }
+
+ /* 将头像下方的地址信息也向上移动相同距离，消除空隙 */
+.profile .more-info {
+   position: relative;
+   top: -90px;
+ }
