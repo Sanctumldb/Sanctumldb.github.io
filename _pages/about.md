@@ -14,6 +14,8 @@ profile:
     <p>Ho Sin Hang</p>
     <p>Engineering Building, CUHK</p>
     <p>Shatin, NT, Hong Kong SAR</p>
+    <hr>
+    <p>📊 <span id="visitor-count">加载中...</span> Total Pageviews</p>
 
 #selected_papers: true # includes a list of papers marked as "selected={true}"
 #social: true # includes social icons at the bottom of the page
@@ -36,6 +38,3 @@ My research focuses on embodied AI and AI for satellite networks.
 
 Email: dongboli@cuhk.edu.hk
 
-
-<!-- FiniCounter 访客计数器 -->
-<img src="https://api.finicounter.com/count?domain=sanctumldb.github.io&style=style3" alt="visitors">
