@@ -29,8 +29,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Postdoctoral Fellow in the Department of Information Engineering at The Chinese University of Hong Kong (CUHK), working with  "<a href='https://staff.ie.cuhk.edu.hk/~glxing/'>Prof. Guoliang Xing</a>" in the  "<a href='https://aiot.ie.cuhk.edu.hk/'>CUHK AIoT Lab</a>". 
-Prior to that, I was a Postdoctoral Fellow in Faculty of Computing at Harbin Institute of Technology (HIT) (Supervisor: "<a href='https://homepage.hit.edu.cn/liujie'>Prof. Jie Liu</a>"), where I also earned my Ph.D.
+I am a Postdoctoral Fellow in the Department of Information Engineering at The Chinese University of Hong Kong (CUHK), working with <a href='https://staff.ie.cuhk.edu.hk/~glxing/'>Prof. Guoliang Xing</a> in the <a href='https://aiot.ie.cuhk.edu.hk/'>CUHK AIoT Lab</a>. 
+Prior to that, I was a Postdoctoral Fellow in Faculty of Computing at Harbin Institute of Technology (HIT) (Supervisor: <a href='https://homepage.hit.edu.cn/liujie'>Prof. Jie Liu</a>), where I also earned my Ph.D.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
