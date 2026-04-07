@@ -37,3 +37,9 @@
 @use "font-awesome/brands";
 @use "font-awesome/solid";
 @use "font-awesome/regular";
+
+/* 将主页头像向上移动 30 像素 */
+.profile img {
+   position: relative;
+   top: -30px;
+ }
