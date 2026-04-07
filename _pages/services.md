@@ -24,6 +24,7 @@ nav_order: 5
 - **TPC Member**, The IEEE International Conference on Sensing, Communication and Networking (SECON 2023)
 - **TPC Member**, The IEEE International Conference on Mobile Ad-Hoc and Smart Systems (MASS 2023)
 - **TPC Member**, The International Conference on Artificial Intelligence of Things and Systems (AIoTsys 2023, 2025)
+- **TPC Member**, The International Conference on Big Data Computing and Communications (BigCom 2026)
 - **TPC Member**, The EAI International Conference on Wireless and Satellite Systems (WiSATS 2021, 2025)
 - **TPC Member**, The IEEE International Conference on Information, Communication and Networks (ICICN 2023, 2024)
 - **TPC Member**, The International Conference on Industrial, Engineering and Other Applications of Applied Intelligent Systems (IEA/AIE 2023, 2024)
